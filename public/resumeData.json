@@ -1,0 +1,101 @@
+{
+  "main": {
+    "name":"Mateo Minato",
+    "occupation":"Software Engineer",
+    "description":"Recent graduate from the University of Oregon",
+    "bio":"Software engineer with experience working on SaaS and IaaS platforms. Passionate about environmental sustainability and social equity. I believe thoughtful use of technology can help us to solve the worlds most pressing issues.",
+    "contactmessage":"Feel free to contact me at any time via text, call, social media, or email.",
+    "email": "mateominato@gmail.com",
+    "phone": "971-207-3047",
+    "address":{
+      "street":"3525 SW Logan St",
+      "city":"Portland",
+      "state":"OR",
+      "zip": "97219"
+    },
+    "website": "http://mateominato.github.io/portfolio-app",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"http://www.linkedin.com/in/mateo-minato/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/mateominato",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/mateominato",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"University of Oregon",
+        "degree":"B.S., Physics and Computer Science",
+        "graduated":"June 2020"
+      }
+    ],
+    "work":[
+      {
+        "company":"Cloudflare",
+        "title":"Bot Management Software Engineering Intern",
+        "years":"06/2018 - 09/2018"
+      },
+      {
+        "company":"Plenty",
+        "title":"Data Engineering Design Intern",
+        "years":"09/2019 - 09/2019"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Restful API Design",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"OOP",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"40%"
+      },
+      {
+        "name":"SQL",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Minesweeper",
+        "category":"A C++ implementation of the classic game Minesweeper.",
+        "image":"minesweeper.jpg",
+        "url":"https://github.com/mateominato/minesweeper"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Looking to add testimonial.",
+        "user":"Somebody cool"
+      }
+    ]
+  }
+}
