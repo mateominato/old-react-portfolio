@@ -45,34 +45,38 @@
       {
         "company":"Cloudflare",
         "title":"Bot Management Software Engineering Intern",
-        "years":"06/2018 - 09/2018"
+        "years":"06/2019 - 09/2019"
       },
       {
         "company":"Plenty",
         "title":"Data Engineering Design Intern",
-        "years":"09/2019 - 09/2019"
+        "years":"09/2018 - 09/2018"
       }
     ],
     "skills":[
       {
+        "name":"Software Engineering",
+        "level":"85%"
+      },
+      {
         "name":"Git",
-        "level":"60%"
+        "level":"80%"
       },
       {
         "name":"Restful API Design",
-        "level":"70%"
+        "level":"65%"
       },
       {
         "name":"Python",
-        "level":"80%"
+        "level":"85%"
       },
       {
         "name":"OOP",
         "level":"80%"
       },
       {
-        "name":"ReactJS",
-        "level":"40%"
+        "name":"Agile",
+        "level":"70%"
       },
       {
         "name":"SQL",
@@ -87,6 +91,18 @@
         "category":"A C++ implementation of the classic game Minesweeper.",
         "image":"minesweeper.jpg",
         "url":"https://github.com/mateominato/minesweeper"
+      },
+      {
+        "title":"Conway Game of Life",
+        "category":"Simple Python/MatPlotLib implementation of James Conway's Game of Life cellular automata.",
+        "image":"gol.png",
+        "url":"https://github.com/mateominato/conway"
+      },
+      {
+        "title":"Blockchain IoT Security Model",
+        "category":"Researched and designed a prospective security model for smart home appliances using Ethereum smart contracts.",
+        "image":"esciot.png",
+        "url":"https://github.com/mateominato/esciot"
       }
     ]
   },
