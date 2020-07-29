@@ -35,7 +35,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Here are a few of my skills with a relative proficiency.",
     "education":[
       {
         "school":"University of Oregon",
@@ -62,27 +62,23 @@
       },
       {
         "name":"Git",
-        "level":"80%"
+        "level":"70%"
       },
       {
         "name":"Restful API Design",
-        "level":"65%"
+        "level":"60%"
       },
       {
         "name":"Python",
-        "level":"85%"
-      },
-      {
-        "name":"OOP",
         "level":"80%"
       },
       {
         "name":"Agile",
-        "level":"70%"
+        "level":"75%"
       },
       {
         "name":"SQL",
-        "level":"70%"
+        "level":"60%"
       }
     ]
   },
