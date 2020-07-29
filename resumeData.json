@@ -101,6 +101,12 @@
         "category":"Researched and designed a prospective security model for smart home appliances using Ethereum smart contracts.",
         "image":"esciot.png",
         "url":"https://github.com/mateominato/esciot"
+      },
+      {
+        "title":"The Broad State of Quantum Computing",
+        "category":"Research paper into the broad state of a quantum computing from a computer scientists perspective.",
+        "image":"qubit.png",
+        "url":"https://github.com/mateominato/The-Broad-State-Of-Quantum-Computing"
       }
     ]
   },
